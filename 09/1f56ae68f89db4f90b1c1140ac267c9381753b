@@ -1,0 +1,25 @@
+lib/dates.js
+  s_2209b0933ff8ea::t_c7671d2e7bbddb 27-34
+lib/orders.js
+  s_2209b0933ff8ea::t_1a2a5c54df8e0d 77,79,84,86,92-95
+lib/ledger.js
+  s_2209b0933ff8ea::t_d7486bc6ed54c6 66-67,70,73-75,82
+test/issue3-order-dates-khata.test.js
+  s_2209b0933ff8ea::t_23c5ec2ee36501 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "091f56ae68f89db4f90b1c1140ac267c9381753b",
+  "prompts": {},
+  "sessions": {
+    "s_2209b0933ff8ea": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_dfde13337ffeTd9VHMiQoudJ7m",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
