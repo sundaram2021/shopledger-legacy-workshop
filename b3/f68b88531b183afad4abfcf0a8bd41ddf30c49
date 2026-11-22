@@ -1,0 +1,22 @@
+test/issue2-inventory-stock.test.js
+  s_2209b0933ff8ea::t_7d02625a8a26ed 1-122
+lib/inventory.js
+  s_2209b0933ff8ea::t_31c34d3db99002 28
+  s_2209b0933ff8ea::t_6be395d257032e 48,51-53,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b3f68b88531b183afad4abfcf0a8bd41ddf30c49",
+  "prompts": {},
+  "sessions": {
+    "s_2209b0933ff8ea": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_dfde13337ffeTd9VHMiQoudJ7m",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
